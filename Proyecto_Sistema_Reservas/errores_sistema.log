@@ -1,0 +1,134 @@
+2026-05-11 20:23:32,229 - INFO - === INICIO DE LA APLICACIÓN ===
+2026-05-11 20:23:33,610 - INFO - --- NUEVA EJECUCIÓN DE SIMULACIÓN AUTOMATIZADA ---
+2026-05-11 20:23:33,611 - INFO - Iniciando procesamiento de reserva SIM1
+2026-05-11 20:23:33,611 - INFO - Reserva SIM1 procesada exitosamente. Costo: $200000.00
+2026-05-11 20:23:33,611 - INFO - Finalizó el intento de procesamiento de la reserva SIM1. Estado actual: Confirmada
+2026-05-11 20:23:33,612 - INFO - Iniciando procesamiento de reserva SIM2
+2026-05-11 20:23:33,612 - INFO - Reserva SIM2 procesada exitosamente. Costo: $183120.00
+2026-05-11 20:23:33,624 - INFO - Finalizó el intento de procesamiento de la reserva SIM2. Estado actual: Confirmada
+2026-05-11 20:23:33,624 - INFO - Iniciando procesamiento de reserva SIM3
+2026-05-11 20:23:33,624 - ERROR - Falla de validación en reserva SIM3: La cantidad de tiempo debe ser mayor a 0.
+2026-05-11 20:23:33,624 - INFO - Finalizó el intento de procesamiento de la reserva SIM3. Estado actual: Fallida
+2026-05-11 20:23:33,624 - INFO - Reserva SIM4 ha sido cancelada.
+2026-05-11 20:23:33,625 - INFO - Iniciando procesamiento de reserva SIM4
+2026-05-11 20:23:33,625 - INFO - Finalizó el intento de procesamiento de la reserva SIM4. Estado actual: Cancelada
+2026-05-11 20:23:33,625 - INFO - Iniciando procesamiento de reserva SIM5
+2026-05-11 20:23:33,625 - ERROR - Error de cálculo en reserva SIM5: El cálculo resultó en un costo negativo.
+2026-05-11 20:23:33,625 - INFO - Finalizó el intento de procesamiento de la reserva SIM5. Estado actual: Fallida
+2026-05-11 20:23:33,625 - INFO - Iniciando procesamiento de reserva SIM6
+2026-05-11 20:23:33,625 - INFO - Reserva SIM6 procesada exitosamente. Costo: $588000.00
+2026-05-11 20:23:33,625 - INFO - Finalizó el intento de procesamiento de la reserva SIM6. Estado actual: Confirmada
+2026-05-11 20:24:12,584 - INFO - === INICIO DE LA APLICACIÓN ===
+2026-05-11 20:24:14,442 - INFO - --- NUEVA EJECUCIÓN DE SIMULACIÓN AUTOMATIZADA ---
+2026-05-11 20:24:14,443 - INFO - Iniciando procesamiento de reserva SIM1
+2026-05-11 20:24:14,443 - INFO - Reserva SIM1 procesada exitosamente. Costo: $200000.00
+2026-05-11 20:24:14,443 - INFO - Finalizó el intento de procesamiento de la reserva SIM1. Estado actual: Confirmada
+2026-05-11 20:24:14,443 - INFO - Iniciando procesamiento de reserva SIM2
+2026-05-11 20:24:14,443 - INFO - Reserva SIM2 procesada exitosamente. Costo: $183120.00
+2026-05-11 20:24:14,443 - INFO - Finalizó el intento de procesamiento de la reserva SIM2. Estado actual: Confirmada
+2026-05-11 20:24:14,443 - INFO - Iniciando procesamiento de reserva SIM3
+2026-05-11 20:24:14,443 - ERROR - Falla de validación en reserva SIM3: La cantidad de tiempo debe ser mayor a 0.
+2026-05-11 20:24:14,443 - INFO - Finalizó el intento de procesamiento de la reserva SIM3. Estado actual: Fallida
+2026-05-11 20:24:14,443 - INFO - Reserva SIM4 ha sido cancelada.
+2026-05-11 20:24:14,444 - INFO - Iniciando procesamiento de reserva SIM4
+2026-05-11 20:24:14,444 - INFO - Finalizó el intento de procesamiento de la reserva SIM4. Estado actual: Cancelada
+2026-05-11 20:24:14,444 - INFO - Iniciando procesamiento de reserva SIM5
+2026-05-11 20:24:14,444 - ERROR - Error de cálculo en reserva SIM5: El cálculo resultó en un costo negativo.
+2026-05-11 20:24:14,444 - INFO - Finalizó el intento de procesamiento de la reserva SIM5. Estado actual: Fallida
+2026-05-11 20:24:14,444 - INFO - Iniciando procesamiento de reserva SIM6
+2026-05-11 20:24:14,444 - INFO - Reserva SIM6 procesada exitosamente. Costo: $588000.00
+2026-05-11 20:24:14,444 - INFO - Finalizó el intento de procesamiento de la reserva SIM6. Estado actual: Confirmada
+2026-05-11 20:24:17,238 - INFO - --- NUEVA EJECUCIÓN DE SIMULACIÓN AUTOMATIZADA ---
+2026-05-11 20:24:17,239 - INFO - Iniciando procesamiento de reserva SIM1
+2026-05-11 20:24:17,239 - INFO - Reserva SIM1 procesada exitosamente. Costo: $200000.00
+2026-05-11 20:24:17,239 - INFO - Finalizó el intento de procesamiento de la reserva SIM1. Estado actual: Confirmada
+2026-05-11 20:24:17,239 - INFO - Iniciando procesamiento de reserva SIM2
+2026-05-11 20:24:17,239 - INFO - Reserva SIM2 procesada exitosamente. Costo: $183120.00
+2026-05-11 20:24:17,239 - INFO - Finalizó el intento de procesamiento de la reserva SIM2. Estado actual: Confirmada
+2026-05-11 20:24:17,239 - INFO - Iniciando procesamiento de reserva SIM3
+2026-05-11 20:24:17,239 - ERROR - Falla de validación en reserva SIM3: La cantidad de tiempo debe ser mayor a 0.
+2026-05-11 20:24:17,239 - INFO - Finalizó el intento de procesamiento de la reserva SIM3. Estado actual: Fallida
+2026-05-11 20:24:17,239 - INFO - Reserva SIM4 ha sido cancelada.
+2026-05-11 20:24:17,240 - INFO - Iniciando procesamiento de reserva SIM4
+2026-05-11 20:24:17,240 - INFO - Finalizó el intento de procesamiento de la reserva SIM4. Estado actual: Cancelada
+2026-05-11 20:24:17,240 - INFO - Iniciando procesamiento de reserva SIM5
+2026-05-11 20:24:17,240 - ERROR - Error de cálculo en reserva SIM5: El cálculo resultó en un costo negativo.
+2026-05-11 20:24:17,240 - INFO - Finalizó el intento de procesamiento de la reserva SIM5. Estado actual: Fallida
+2026-05-11 20:24:17,240 - INFO - Iniciando procesamiento de reserva SIM6
+2026-05-11 20:24:17,240 - INFO - Reserva SIM6 procesada exitosamente. Costo: $588000.00
+2026-05-11 20:24:17,240 - INFO - Finalizó el intento de procesamiento de la reserva SIM6. Estado actual: Confirmada
+2026-05-12 15:10:24,482 - INFO - === INICIO DE LA APLICACIÓN ===
+2026-05-12 15:11:01,436 - INFO - Iniciando procesamiento de reserva R001
+2026-05-12 15:11:01,437 - INFO - Reserva R001 procesada exitosamente. Costo: $285600.00
+2026-05-12 15:11:01,437 - INFO - Finalizó el intento de procesamiento de la reserva R001. Estado actual: Confirmada
+2026-05-12 15:11:08,865 - INFO - --- NUEVA EJECUCIÓN DE SIMULACIÓN AUTOMATIZADA ---
+2026-05-12 15:11:08,865 - INFO - Iniciando procesamiento de reserva SIM1
+2026-05-12 15:11:08,865 - INFO - Reserva SIM1 procesada exitosamente. Costo: $200000.00
+2026-05-12 15:11:08,865 - INFO - Finalizó el intento de procesamiento de la reserva SIM1. Estado actual: Confirmada
+2026-05-12 15:11:08,866 - INFO - Iniciando procesamiento de reserva SIM2
+2026-05-12 15:11:08,866 - INFO - Reserva SIM2 procesada exitosamente. Costo: $183120.00
+2026-05-12 15:11:08,866 - INFO - Finalizó el intento de procesamiento de la reserva SIM2. Estado actual: Confirmada
+2026-05-12 15:11:08,866 - INFO - Iniciando procesamiento de reserva SIM3
+2026-05-12 15:11:08,866 - ERROR - Falla de validación en reserva SIM3: La cantidad de tiempo debe ser mayor a 0.
+2026-05-12 15:11:08,867 - INFO - Finalizó el intento de procesamiento de la reserva SIM3. Estado actual: Fallida
+2026-05-12 15:11:08,867 - INFO - Reserva SIM4 ha sido cancelada.
+2026-05-12 15:11:08,867 - INFO - Iniciando procesamiento de reserva SIM4
+2026-05-12 15:11:08,867 - INFO - Finalizó el intento de procesamiento de la reserva SIM4. Estado actual: Cancelada
+2026-05-12 15:11:08,867 - INFO - Iniciando procesamiento de reserva SIM5
+2026-05-12 15:11:08,867 - ERROR - Error de cálculo en reserva SIM5: El cálculo resultó en un costo negativo.
+2026-05-12 15:11:08,868 - INFO - Finalizó el intento de procesamiento de la reserva SIM5. Estado actual: Fallida
+2026-05-12 15:11:08,868 - INFO - Iniciando procesamiento de reserva SIM6
+2026-05-12 15:11:08,868 - INFO - Reserva SIM6 procesada exitosamente. Costo: $588000.00
+2026-05-12 15:11:08,868 - INFO - Finalizó el intento de procesamiento de la reserva SIM6. Estado actual: Confirmada
+2026-05-12 15:12:02,703 - INFO - Iniciando procesamiento de reserva R007
+2026-05-12 15:12:02,703 - INFO - Reserva R007 procesada exitosamente. Costo: $99960.00
+2026-05-12 15:12:02,704 - INFO - Finalizó el intento de procesamiento de la reserva R007. Estado actual: Confirmada
+2026-05-12 15:12:11,388 - INFO - Iniciando procesamiento de reserva R008
+2026-05-12 15:12:11,389 - ERROR - Falla de validación en reserva R008: La cantidad de tiempo debe ser mayor a 0.
+2026-05-12 15:12:11,389 - INFO - Finalizó el intento de procesamiento de la reserva R008. Estado actual: Fallida
+2026-05-12 15:12:19,174 - INFO - Iniciando procesamiento de reserva R008
+2026-05-12 15:12:19,175 - INFO - Reserva R008 procesada exitosamente. Costo: $8002800.00
+2026-05-12 15:12:19,175 - INFO - Finalizó el intento de procesamiento de la reserva R008. Estado actual: Confirmada
+2026-05-12 15:12:28,840 - INFO - --- NUEVA EJECUCIÓN DE SIMULACIÓN AUTOMATIZADA ---
+2026-05-12 15:12:28,840 - INFO - Iniciando procesamiento de reserva SIM1
+2026-05-12 15:12:28,840 - INFO - Reserva SIM1 procesada exitosamente. Costo: $200000.00
+2026-05-12 15:12:28,840 - INFO - Finalizó el intento de procesamiento de la reserva SIM1. Estado actual: Confirmada
+2026-05-12 15:12:28,840 - INFO - Iniciando procesamiento de reserva SIM2
+2026-05-12 15:12:28,840 - INFO - Reserva SIM2 procesada exitosamente. Costo: $183120.00
+2026-05-12 15:12:28,840 - INFO - Finalizó el intento de procesamiento de la reserva SIM2. Estado actual: Confirmada
+2026-05-12 15:12:28,840 - INFO - Iniciando procesamiento de reserva SIM3
+2026-05-12 15:12:28,840 - ERROR - Falla de validación en reserva SIM3: La cantidad de tiempo debe ser mayor a 0.
+2026-05-12 15:12:28,841 - INFO - Finalizó el intento de procesamiento de la reserva SIM3. Estado actual: Fallida
+2026-05-12 15:12:28,841 - INFO - Reserva SIM4 ha sido cancelada.
+2026-05-12 15:12:28,841 - INFO - Iniciando procesamiento de reserva SIM4
+2026-05-12 15:12:28,841 - INFO - Finalizó el intento de procesamiento de la reserva SIM4. Estado actual: Cancelada
+2026-05-12 15:12:28,841 - INFO - Iniciando procesamiento de reserva SIM5
+2026-05-12 15:12:28,841 - ERROR - Error de cálculo en reserva SIM5: El cálculo resultó en un costo negativo.
+2026-05-12 15:12:28,841 - INFO - Finalizó el intento de procesamiento de la reserva SIM5. Estado actual: Fallida
+2026-05-12 15:12:28,841 - INFO - Iniciando procesamiento de reserva SIM6
+2026-05-12 15:12:28,841 - INFO - Reserva SIM6 procesada exitosamente. Costo: $588000.00
+2026-05-12 15:12:28,841 - INFO - Finalizó el intento de procesamiento de la reserva SIM6. Estado actual: Confirmada
+2026-05-12 15:22:50,652 - INFO - === INICIO DE LA APLICACIÓN ===
+2026-05-12 15:23:21,096 - INFO - Iniciando procesamiento de reserva R001
+2026-05-12 15:23:21,096 - INFO - Reserva R001 procesada exitosamente. Costo: $142800.00
+2026-05-12 15:23:21,097 - INFO - Finalizó el intento de procesamiento de la reserva R001. Estado actual: Confirmada
+2026-05-12 15:23:26,989 - INFO - --- NUEVA EJECUCIÓN DE SIMULACIÓN AUTOMATIZADA ---
+2026-05-12 15:23:26,990 - INFO - Iniciando procesamiento de reserva SIM1
+2026-05-12 15:23:26,990 - INFO - Reserva SIM1 procesada exitosamente. Costo: $200000.00
+2026-05-12 15:23:26,990 - INFO - Finalizó el intento de procesamiento de la reserva SIM1. Estado actual: Confirmada
+2026-05-12 15:23:26,991 - INFO - Iniciando procesamiento de reserva SIM2
+2026-05-12 15:23:26,991 - INFO - Reserva SIM2 procesada exitosamente. Costo: $183120.00
+2026-05-12 15:23:26,991 - INFO - Finalizó el intento de procesamiento de la reserva SIM2. Estado actual: Confirmada
+2026-05-12 15:23:26,991 - INFO - Iniciando procesamiento de reserva SIM3
+2026-05-12 15:23:26,992 - ERROR - Falla de validación en reserva SIM3: La cantidad de tiempo debe ser mayor a 0.
+2026-05-12 15:23:26,992 - INFO - Finalizó el intento de procesamiento de la reserva SIM3. Estado actual: Fallida
+2026-05-12 15:23:26,992 - INFO - Reserva SIM4 ha sido cancelada.
+2026-05-12 15:23:26,992 - INFO - Iniciando procesamiento de reserva SIM4
+2026-05-12 15:23:26,992 - INFO - Finalizó el intento de procesamiento de la reserva SIM4. Estado actual: Cancelada
+2026-05-12 15:23:26,993 - INFO - Iniciando procesamiento de reserva SIM5
+2026-05-12 15:23:26,993 - ERROR - Error de cálculo en reserva SIM5: El cálculo resultó en un costo negativo.
+2026-05-12 15:23:26,993 - INFO - Finalizó el intento de procesamiento de la reserva SIM5. Estado actual: Fallida
+2026-05-12 15:23:26,993 - INFO - Iniciando procesamiento de reserva SIM6
+2026-05-12 15:23:26,994 - INFO - Reserva SIM6 procesada exitosamente. Costo: $588000.00
+2026-05-12 15:23:26,994 - INFO - Finalizó el intento de procesamiento de la reserva SIM6. Estado actual: Confirmada
+2026-05-12 15:26:01,664 - INFO - === INICIO DE LA APLICACIÓN ===
